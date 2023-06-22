@@ -2,7 +2,7 @@ node{
 
     def  mavenHome   =  tool name :  'maven3.9.2'
     stage('1-clone the code'){
-        git 'https://github.com/Bucey01/jenkins-cicd-june17-2023.git'
+        git 'https://github.com/Anu2023-Devops-Team/jenkins-cicd-june17-2023.git'
 
     }
 
